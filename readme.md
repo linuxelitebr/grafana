@@ -1,10 +1,10 @@
-# OCP Virt HCP - Metrics Dashboard
+# OpenShift Virtualization Metrics Dashboard
 
 ## Overview
 
 This Grafana dashboard provides comprehensive monitoring for OpenShift Virtualization (KubeVirt) environments, offering real-time insights into virtual machine performance, resource consumption, and cluster health metrics.
 
-It also supports OpenShift Hosted Clusters.
+It also supports OpenShift Hosted Clusters running KubeVirt.
 
 ![Grafana OpenShift Virtualization Dashboard](./grafana-ocp-virt-dashboard.jpg "Grafana OpenShift Virtualization Dashboard")
 
