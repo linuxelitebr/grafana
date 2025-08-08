@@ -6,6 +6,8 @@ This Grafana dashboard provides comprehensive monitoring for OpenShift Virtualiz
 
 It also supports OpenShift Hosted Clusters.
 
+![Grafana OpenShift Virtualization Dashboard](./grafana-ocp-virt-dashboard.jpg "Grafana OpenShift Virtualization Dashboard")
+
 ## Purpose
 
 Monitor and analyze the health and performance of virtualized workloads running on OpenShift Container Platform with KubeVirt, providing visibility into:
