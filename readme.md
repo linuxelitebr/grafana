@@ -8,7 +8,7 @@ It also supports OpenShift Hosted Clusters running KubeVirt.
 
 ![Grafana OpenShift Virtualization Dashboard](./grafana-ocp-virt-dashboard.jpg "Grafana OpenShift Virtualization Dashboard")
 
-This implementation is based on the work of [Leonardo Araujo](https://developers.redhat.com/articles/2024/08/19/monitor-openshift-virtualization-using-user-defined-projects-and-grafana "on Grafana Dashboards"). Don't forget to thank him.
+This implementation is based on the work of [Leonardo Araujo](https://developers.redhat.com/articles/2024/08/19/monitor-openshift-virtualization-using-user-defined-projects-and-grafana "Leonardo Araujo Grafana Dashboards"). Don't forget to thank him.
 
 
 ## Purpose
